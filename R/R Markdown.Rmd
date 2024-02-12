@@ -1,0 +1,19 @@
+---
+title: "R Markdown"
+author: "Moises Rojo"
+date: "2024-02-12"
+output: html_document
+---
+
+# ST2195 Assignment 1
+
+## Printing Integers
+The following R script prints all integers between 1 and 10 (including 1 and 10) to screen
+
+```{r}
+print(1:10)
+```
+
+## References
+1. print function - RDocumentation. (n.d.). https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/print
+
